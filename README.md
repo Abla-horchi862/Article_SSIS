@@ -1,6 +1,11 @@
 # Introduction
 The SSIS (SQL Server Integration Services) process involves several phases that collectively facilitate data integration, transformation, and loading tasks. 
 
+
+![ssis1](https://github.com/Abla-horchi862/Article_SSIS/assets/61522624/f578042b-6340-4f9f-b067-520d538c604d)
+
+
+
 # Here are the different phases of the SSIS process:
 
 ## Design Phase:
